@@ -1,0 +1,29 @@
+------ DATA TYPE ------
+Integer: 10
+Float: 3.5
+
+------ ARITHMETIC OPERATORS ------
+Addition: 15
+Subtraction: 5
+Multiplication: 50
+Division: 2.0
+Modulus: 0
+
+------ RELATIONAL OPERATORS ------
+x > y : True
+x < y : False
+x == y : False
+x != y : True
+
+------ ASSIGNMENT OPERATORS ------
+Initial value: 10
+After += : 15
+After -= : 12
+After *= : 24
+
+------ BITWISE OPERATORS ------
+a & b : 2
+a | b : 7
+a ^ b : 5
+a << 1 : 12
+a >> 1 : 3

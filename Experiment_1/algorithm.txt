@@ -1,0 +1,21 @@
+Algorithm
+
+Step 1: Begin the program.
+
+Step 2: Declare variables a and b to demonstrate basic data types such as integer and float.
+
+Step 3: Display the values of these variables to show the representation of different data types.
+
+Step 4: Assign two integer variables x and y to perform arithmetic operations.
+
+Step 5: Perform arithmetic operations such as addition, subtraction, multiplication, division, and modulus, and display their results.
+
+Step 6: Use relational operators to compare the values of x and y, and display the boolean results of each comparison.
+
+Step 7: Initialize a variable n and apply assignment operators (+=, -=, *=) to modify its value step by step.
+
+Step 8: Declare two new integer variables and perform bitwise operations such as AND, OR, XOR, left shift, and right shift.
+
+Step 9: Display the results of all bitwise operations.
+
+Step 10: End the program.
