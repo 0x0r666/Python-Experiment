@@ -1,0 +1,27 @@
+Step 1: Start the program.
+
+Step 2: Create a list named Network containing several elements related to network technology.
+
+Step 3: Display a portion of the list using list slicing.
+
+Step 4: Add a new element to the list using the append() function.
+
+Step 5: Modify an element in the list using its index position.
+
+Step 6: Remove an element from the list using the remove() function.
+
+Step 7: Find the index position of a specific element using the index() function.
+
+Step 8: Create a copy of the list using the copy() method.
+
+Step 9: Perform list concatenation by combining the original list and the copied list.
+
+Step 10: Display elements of the list using a for loop.
+
+Step 11: Display elements of the list using a while loop.
+
+Step 12: Clear all elements from the copied list using the clear() function.
+
+Step 13: Display the cleared list.
+
+Step 14: Stop the program.

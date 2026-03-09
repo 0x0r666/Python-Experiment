@@ -1,0 +1,37 @@
+Slicing: ['upto 10GBPS', '6G', '1m/s', 'VRIAR']
+
+After Insert/Modify: ['5G', 'upto 10GBPS', '6G', 'Throughput', 'VRIAR', '4G', 'Transport', 'Smart', 'Factories', 'New Radio', 'mmwave', 'sub-6GHZ', 'Spectrum', 'Frequency', 'INR', 'Ultra-reliable']
+
+After Remove: ['5G', 'upto 10GBPS', '6G', 'Throughput', 'VRIAR', '4G', 'Transport', 'Smart', 'Factories', 'New Radio', 'mmwave', 'sub-6GHZ', 'Spectrum', 'Frequency', 'Ultra-reliable']
+
+Index of 5G: 0
+
+Copied List: ['5G', 'upto 10GBPS', '6G', 'Throughput', 'VRIAR', '4G', 'Transport', 'Smart', 'Factories', 'New Radio', 'mmwave', 'sub-6GHZ', 'Spectrum', 'Frequency', 'Ultra-reliable']
+
+Concatenated List: ['5G', 'upto 10GBPS', '6G', 'Throughput', 'VRIAR', '4G', 'Transport', 'Smart', 'Factories', 'New Radio', 'mmwave', 'sub-6GHZ', 'Spectrum', 'Frequency', 'Ultra-reliable', '5G', 'upto 10GBPS', '6G', 'Throughput', 'VRIAR', '4G', 'Transport', 'Smart', 'Factories', 'New Radio', 'mmwave', 'sub-6GHZ', 'Spectrum', 'Frequency', 'Ultra-reliable']
+
+For Loop Output:
+5G
+upto 10GBPS
+6G
+Throughput
+VRIAR
+
+While Loop Output:
+5G
+upto 10GBPS
+6G
+Throughput
+VRIAR
+4G
+Transport
+Smart
+Factories
+New Radio
+mmwave
+sub-6GHZ
+Spectrum
+Frequency
+Ultra-reliable
+
+After clear: []
