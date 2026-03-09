@@ -1,0 +1,15 @@
+Enter a string: Kaustubh
+Reverse: hbutsuaK
+Length: 8
+Not Palindrome
+Uppercase: KAUSTUBH
+Lowercase: kaustubh
+Capitalize: Kaustubh
+Swapcase: kAUSTUBH
+Position of 'a': 1
+Replace 'a' with '@': K@ustubh
+Split words: ['Kaustubh']
+'z' not in string: True
+First character: K
+Last character: h
+'e' does not exist in the string

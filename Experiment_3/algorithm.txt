@@ -1,0 +1,33 @@
+Step 1: Start the program.
+
+Step 2: Read a string from the user and store it in a variable.
+
+Step 3: Reverse the string and display the result.
+
+Step 4: Find and display the length of the string.
+
+Step 5: Check whether the string is a palindrome by comparing it with its reverse.
+
+Step 6: Convert the string to uppercase and display it.
+
+Step 7: Convert the string to lowercase and display it.
+
+Step 8: Capitalize the first letter of the string and display it.
+
+Step 9: Swap the case of each character in the string and display the result.
+
+Step 10: Find the position of the character 'a' in the string.
+
+Step 11: Replace all occurrences of 'a' with '@' and display the result.
+
+Step 12: Split the string into words and display the list of words.
+
+Step 13: Check whether the character 'z' is not present in the string.
+
+Step 14: Display the first and last characters of the string.
+
+Step 15: Check whether the substring 'e' exists in the string.
+
+Step 16: Display the result of the substring check.
+
+Step 17: Stop the program.
