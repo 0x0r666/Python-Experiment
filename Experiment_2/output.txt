@@ -1,0 +1,13 @@
+Enter runs scored: 55
+Enter balls faced: 40
+Enter wickets taken: 3
+Enter runs conceded: 20
+Enter overs bowled: 4
+Enter catches taken: 2
+
+Strike Rate: 137.5
+Economy: 5.0
+Batting: Excellent
+Bowling: Excellent
+Fielding: Outstanding
+Overall: Star All rounder

@@ -1,0 +1,21 @@
+Step 1: Start the program.
+
+Step 2: Read the player details such as runs scored, balls faced, wickets taken, runs conceded, overs bowled, and catches taken.
+
+Step 3: Calculate the strike rate using the formula
+Strike Rate = (runs / balls) × 100.
+
+Step 4: Calculate the economy rate using
+Economy = runs conceded / overs bowled.
+
+Step 5: Use if–elif–else statements to evaluate the batting performance.
+
+Step 6: Use if–elif–else statements to evaluate the bowling performance.
+
+Step 7: Use if–elif–else statements to determine the fielding performance.
+
+Step 8: Determine the overall performance based on batting and bowling results.
+
+Step 9: Display the strike rate, economy rate, batting performance, bowling performance, fielding performance, and overall result.
+
+Step 10: Stop the program.
