@@ -1,0 +1,23 @@
+Step 1: Start the program.
+
+Step 2: Create three tuples t1, t2, and t3 containing numbers and fruit names.
+
+Step 3: Display the original tuples.
+
+Step 4: Access and display elements from tuple t1 using index positions.
+
+Step 5: Find and display the length of each tuple using the len() function.
+
+Step 6: Create a nested tuple using t1 and t3 and display it.
+
+Step 7: Concatenate tuples t2 and t3 and display the result.
+
+Step 8: Perform membership checking to see whether specific elements exist in the tuples.
+
+Step 9: Accept a fruit name from the user and check if it exists in tuple t3 using an if–else statement.
+
+Step 10: Create another tuple of integers and use built-in functions such as max(), min(), and sum() to display results.
+
+Step 11: Count the number of occurrences of the value 10 in the integer tuple using the count() function.
+
+Step 12: Stop the program.

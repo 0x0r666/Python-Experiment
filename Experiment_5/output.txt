@@ -1,0 +1,25 @@
+Original tuple (1, 2, 3) (250, 36, 200) ('Apple', 'Banana', 'Watermelon', 'Dragon Fruit')
+
+First element of t1:  1
+Second element of t1:  3
+Third element of t1:  3
+
+length of tuple 1:  3
+length of tuple 2:  3
+length of tuple 3:  4
+
+Nested:  ((1, 2, 3), ('Apple', 'Banana', 'Watermelon', 'Dragon Fruit'))
+
+Concatenation:  (250, 36, 200, 'Apple', 'Banana', 'Watermelon', 'Dragon Fruit')
+
+Membership:
+Is 2 in t1? True
+Is Mango in t3 False
+
+Enter fruit name to check Apple
+Apple is present
+
+Max:  98
+Min:  4
+Sum:  324
+Occurance of number 10:  2
