@@ -34,5 +34,18 @@ The programs are written in a **simple and beginner-friendly manner** to help un
 3. Open a terminal in the project folder.
 4. Run any experiment using:
 
+## ⚙️ Requirements
+
+- Python 3.x
+- Any code editor (VS Code / PyCharm / IDLE)
+- Terminal or command prompt
+
+---
+
+## 👨‍💻 Author
+
+**Kaustubh**  
+BCA Student – Jain University  
+
 ```bash
 python exp1.py
