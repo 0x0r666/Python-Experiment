@@ -1,8 +1,38 @@
-# Python-Experiment </>
-This repository contains a collection of Python programs developed as part of the Python Programming laboratory coursework. The programs demonstrate fundamental concepts of Python including data types, operators, control flow statements, loops, strings, lists, tuples, and other built-in features.
+# 🐍 Python Experiment Repository
 
-The objective of this repository is to provide simple and well-structured implementations of Python programs that help in understanding the core concepts of the language. Each experiment is designed to illustrate a specific topic and includes the program, algorithm, and output wherever required.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Lab](https://img.shields.io/badge/Type-Python%20Lab-green)
+![Experiments](https://img.shields.io/badge/Experiments-6-orange)
 
-These programs serve as practical examples for beginners to understand how Python works and how different programming constructs can be used to solve basic computational problems.
+This repository contains Python programs created as part of the **Python Programming Laboratory coursework**.  
+Each experiment demonstrates fundamental Python concepts such as **data types, operators, control flow, loops, strings, lists, tuples, and dictionaries**.
 
-# 📓List of Experiments (1 to 6)
+The programs are written in a **simple and beginner-friendly manner** to help understand the basic structure and functionality of Python programs.
+
+---
+
+## 📓 List of Experiments (1 to 6)
+
+[![Experiment 1](https://img.shields.io/badge/Experiment%201-Data%20Types%20%26%20Operators-blue)](exp1.py)
+
+[![Experiment 2](https://img.shields.io/badge/Experiment%202-Control%20Flow%20%26%20Loops-green)](exp2.py)
+
+[![Experiment 3](https://img.shields.io/badge/Experiment%203-String%20Operations-orange)](exp3.py)
+
+[![Experiment 4](https://img.shields.io/badge/Experiment%204-List%20Functions-purple)](exp4.py)
+
+[![Experiment 5](https://img.shields.io/badge/Experiment%205-Tuple%20Functions-red)](exp5.py)
+
+[![Experiment 6](https://img.shields.io/badge/Experiment%206-Dictionary%20Functions-yellow)](exp6.py)
+
+---
+
+## ▶️ How to Run
+
+1. Make sure **Python 3** is installed on your system.
+2. Clone or download this repository.
+3. Open a terminal in the project folder.
+4. Run any experiment using:
+
+```bash
+python exp1.py
