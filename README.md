@@ -33,6 +33,7 @@ The programs are written in a **simple and beginner-friendly manner** to help un
 2. Clone or download this repository.
 3. Open a terminal in the project folder.
 4. Run any experiment using:
+python exp1.py
 
 ## ⚙️ Requirements
 
@@ -48,4 +49,3 @@ The programs are written in a **simple and beginner-friendly manner** to help un
 BCA Student – Jain University  
 
 ```bash
-python exp1.py
