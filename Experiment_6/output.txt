@@ -1,0 +1,30 @@
+Enter how many numbers: 3
+Enter name and number: Rahul 9876543210
+Enter name and number: Neha 9123456789
+Enter name and number: Amit 9012345678
+
+Original List
+{'Rahul': '9876543210', 'Neha': '9123456789', 'Amit': '9012345678'}
+
+Enter name to search: Rahul
+Their Contact no:  9876543210
+
+All names
+dict_keys(['Rahul', 'Neha', 'Amit'])
+
+All numbers
+dict_values(['9876543210', '9123456789', '9012345678'])
+
+Contacts
+dict_items([('Rahul', '9876543210'), ('Neha', '9123456789'), ('Amit', '9012345678')])
+
+Copied
+{'Rahul': '9876543210', 'Neha': '9123456789', 'Amit': '9012345678'}
+
+Enter name of number to update Rahul
+Enter number: 9999999999
+After:  {'Rahul': 9999999999, 'Neha': '9123456789', 'Amit': '9012345678'}
+
+Enter name to delete: Amit
+
+Enter name to pop: Neha

@@ -1,0 +1,35 @@
+Step 1: Start the program.
+
+Step 2: Create an empty dictionary called phonebook.
+
+Step 3: Read the number of contacts from the user.
+
+Step 4: Use a for loop to input name and phone number pairs and store them in the dictionary.
+
+Step 5: Display the original phonebook.
+
+Step 6: Ask the user to enter a name to search and display the corresponding phone number using the get() function.
+
+Step 7: Display all the names stored in the dictionary using keys().
+
+Step 8: Display all the phone numbers using values().
+
+Step 9: Display all the contact details using items().
+
+Step 10: Create a copy of the dictionary using the copy() function and display it.
+
+Step 11: Ask the user to enter a name whose number needs to be updated.
+
+If the name exists, read the new number and update the dictionary using update().
+
+Otherwise display a message that the name is not found.
+
+Step 12: Ask the user to enter a name to delete from the dictionary.
+
+If the name exists, delete it using del.
+
+Otherwise display a message.
+
+Step 13: Ask the user to enter a name to remove using pop() and store the removed value.
+
+Step 14: Stop the program.
