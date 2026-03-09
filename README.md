@@ -13,17 +13,17 @@ The programs are written in a **simple and beginner-friendly manner** to help un
 
 ## 📓 List of Experiments (1 to 6)
 
-[![Experiment 1](https://img.shields.io/badge/Experiment%201-Data%20Types%20%26%20Operators-blue)](exp1.py)
+[![Experiment 1](https://img.shields.io/badge/Experiment%201-Data%20Types%20%26%20Operators-blue)](Experiment_1/exp1.py)
 
-[![Experiment 2](https://img.shields.io/badge/Experiment%202-Control%20Flow%20%26%20Loops-green)](exp2.py)
+[![Experiment 2](https://img.shields.io/badge/Experiment%202-Control%20Flow%20%26%20Loops-green)](Experiment_2/exp2.py)
 
-[![Experiment 3](https://img.shields.io/badge/Experiment%203-String%20Operations-orange)](exp3.py)
+[![Experiment 3](https://img.shields.io/badge/Experiment%203-String%20Operations-orange)](Experiment_3/exp3.py)
 
-[![Experiment 4](https://img.shields.io/badge/Experiment%204-List%20Functions-purple)](exp4.py)
+[![Experiment 4](https://img.shields.io/badge/Experiment%204-List%20Functions-purple)](Experiment_4/exp4.py)
 
-[![Experiment 5](https://img.shields.io/badge/Experiment%205-Tuple%20Functions-red)](exp5.py)
+[![Experiment 5](https://img.shields.io/badge/Experiment%205-Tuple%20Functions-red)](Experiment_5/exp5.py)
 
-[![Experiment 6](https://img.shields.io/badge/Experiment%206-Dictionary%20Functions-yellow)](exp6.py)
+[![Experiment 6](https://img.shields.io/badge/Experiment%206-Dictionary%20Functions-yellow)](Experiment_6/exp6.py)
 
 ---
 
