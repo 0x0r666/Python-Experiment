@@ -1,0 +1,19 @@
+Step 1: Start the program.
+
+Step 2: Import NumPy and Pandas libraries.
+
+Step 3: Create a NumPy array with some numerical values.
+
+Step 4: Perform operations such as sum, mean, and maximum on the array.
+
+Step 5: Create a dictionary containing student names and marks.
+
+Step 6: Convert the dictionary into a Pandas DataFrame.
+
+Step 7: Display the DataFrame.
+
+Step 8: Access and display a specific column from the DataFrame.
+
+Step 9: Calculate and display the average marks using Pandas functions.
+
+Step 10: Stop the program.
