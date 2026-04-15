@@ -25,6 +25,12 @@ The programs are written in a **simple and beginner-friendly manner** to help un
 
 [![Experiment 6](https://img.shields.io/badge/Experiment%206-Dictionary%20Functions-yellow)](Experiment_6/exp6.py)
 
+[![Experiment 7](https://img.shields.io/badge/Experiment%207-OOP%20Concepts-blueviolet)](Experiment_7/exp7.py)
+
+[![Experiment 8](https://img.shields.io/badge/Experiment%208-Regular%20Expressions-lightgrey)](Experiment_8/exp8.py)
+
+[![Experiment 9](https://img.shields.io/badge/Experiment%209-NumPy%20%26%20Pandas-black)](Experiment_9/exp9.py)
+
 ---
 
 ## ▶️ How to Run
