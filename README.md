@@ -5,7 +5,7 @@
 ![Experiments](https://img.shields.io/badge/Experiments-6-orange)
 
 This repository contains Python programs created as part of the **Python Programming Laboratory coursework**.  
-Each experiment demonstrates fundamental Python concepts such as **data types, operators, control flow, loops, strings, lists, tuples, dictionaries, object-oriented programming (OOP), regular expressions, and data analysis using NumPy and Pandas**.
+Each experiment demonstrates fundamental Python concepts such as data types, operators, control flow, loops, strings, lists, tuples, dictionaries, object-oriented programming (OOP), regular expressions, and data analysis using NumPy and Pandas.
 
 The programs are written in a **simple and beginner-friendly manner** to help understand the core concepts and practical applications of Python programming.
 
