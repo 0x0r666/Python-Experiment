@@ -1,0 +1,19 @@
+Step 1: Start the program.
+
+Step 2: Import the re module for regular expression operations.
+
+Step 3: Read a string input from the user.
+
+Step 4: Use re.search() to check whether the word "Python" is present anywhere in the string.
+
+Step 5: Use re.findall() to find all digits present in the string.
+
+Step 6: Use re.sub() to replace the word "Python" with "Java".
+
+Step 7: Use re.split() to split the string into words based on spaces.
+
+Step 8: Use re.match() to check whether the string starts with "Python".
+
+Step 9: Display all the results.
+
+Step 10: Stop the program.

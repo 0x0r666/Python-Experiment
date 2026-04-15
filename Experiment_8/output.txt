@@ -1,0 +1,7 @@
+Enter a string: Python version 3.10 is popular
+
+Search 'Python': Found
+Digits in string: ['3', '1', '0']
+After Replace: Java version 3.10 is popular
+Split words: ['Python', 'version', '3.10', 'is', 'popular']
+Match 'Python' at start: Matched
