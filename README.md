@@ -11,7 +11,7 @@ The programs are written in a **simple and beginner-friendly manner** to help un
 
 ---
 
-## 📓 List of Experiments (1 to 6)
+## 📓 List of Experiments (1 to 9)
 
 [![Experiment 1](https://img.shields.io/badge/Experiment%201-Data%20Types%20%26%20Operators-blue)](Experiment_1/exp1.py)
 
