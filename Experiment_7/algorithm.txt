@@ -1,0 +1,17 @@
+Step 1: Start the program.
+
+Step 2: Define a class Person with a constructor and a method to display the name.
+
+Step 3: Create a child class Student to demonstrate single inheritance.
+
+Step 4: Create another class Sports and combine it with Student to demonstrate multiple inheritance.
+
+Step 5: Create classes A, B, C to demonstrate multilevel inheritance.
+
+Step 6: Create a base class Animal and derive multiple classes (Dog, Cat) to demonstrate hierarchical inheritance.
+
+Step 7: Create objects for each class and call their methods.
+
+Step 8: Display the output for each concept.
+
+Step 9: Stop the program.

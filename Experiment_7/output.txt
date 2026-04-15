@@ -1,0 +1,22 @@
+----- Class & Method -----
+Name: Kaustubh
+
+----- Single Inheritance -----
+Name: Rahul
+Rahul is a Student
+
+----- Multiple Inheritance -----
+Amit is a Student
+Plays Football
+Amit passed exam
+
+----- Multilevel Inheritance -----
+Parent Class
+Child Class
+Grandchild Class
+
+----- Hierarchical Inheritance -----
+Animal makes sound
+Dog barks
+Animal makes sound
+Cat meows
