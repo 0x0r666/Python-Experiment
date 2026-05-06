@@ -1,0 +1,9 @@
+Step 1: Start
+Step 2: Import pandas library
+Step 3: Load dataset using pd.read_csv()
+Step 4: Display first 5 rows using head()
+Step 5: Display dataset information using info()
+Step 6: Check missing values using isna().sum()
+Step 7: Clean data using dropna()
+Step 8: Explore data using describe()
+Step 9: Stop
