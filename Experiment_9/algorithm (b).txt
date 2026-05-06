@@ -1,0 +1,11 @@
+Step 1: Start
+Step 2: Import pandas and matplotlib.pyplot libraries
+Step 3: Create a dictionary with student names and marks
+Step 4: Convert the dictionary into a DataFrame using pd.DataFrame()
+Step 5: Display the DataFrame using print()
+Step 6: Plot the graph using plt.plot() with names on X-axis and marks on Y-axis
+Step 7: Add title using plt.title()
+Step 8: Label X-axis using plt.xlabel()
+Step 9: Label Y-axis using plt.ylabel()
+Step 10: Display the graph using plt.show()
+Step 11: Stop
