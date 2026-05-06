@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-# Sample data
+# data
 names = ["A", "B", "C", "D"]
 marks = [80, 90, 70, 85]
 
