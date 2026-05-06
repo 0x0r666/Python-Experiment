@@ -1,0 +1,6 @@
+  Name  Age  Marks       City
+0    A   20   80.0  Bangalore
+1    B   21   90.0    Chennai
+2    C   19   70.0  Hyderabad
+3    D   22   85.0     Mumbai
+4    E   20    NaN      Delhi

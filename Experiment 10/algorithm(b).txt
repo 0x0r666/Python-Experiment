@@ -1,0 +1,12 @@
+Step 1: Start
+Step 2: Import matplotlib.pyplot library
+Step 3: Create data for visualization (e.g., names and marks)
+Step 4: Plot line graph using plt.plot()
+Step 5: Display graph using plt.show()
+Step 6: Plot bar graph using plt.bar()
+Step 7: Display graph using plt.show()
+Step 8: Plot pie chart using plt.pie()
+Step 9: Display graph using plt.show()
+Step 10: Plot histogram using plt.hist()
+Step 11: Display graph using plt.show()
+Step 12: Stop
