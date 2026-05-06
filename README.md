@@ -31,6 +31,8 @@ The programs are written in a **simple and beginner-friendly manner** to help un
 
 [![Experiment 9](https://img.shields.io/badge/Experiment%209-NumPy%20%26%20Pandas-black)](Experiment_9/exp9.py)
 
+[![Experiment 10](https://img.shields.io/badge/Experiment%2010-NumPy%20%26%20Pandas-pink)](Experiment_10/exp10.py)
+
 ---
 
 ## ▶️ How to Run
